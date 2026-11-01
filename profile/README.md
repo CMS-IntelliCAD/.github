@@ -33,7 +33,7 @@
 | Drafting notes lost in separate chats | A handoff written inside CMS IntelliCAD |
 | Mixed personal sketches and client DWG | Separate profiles inside CMS IntelliCAD |
 
-![CMS IntelliCAD](https://www.intellicadms.com/images/intellicad130/ui/cms_intellicad_130_ui.png)
+![CMS IntelliCAD](https://www.intellicadms.com/images/intellicad110/ui/cms_intellicad_11_0_preview.png)
 
 ## First Questions
 
